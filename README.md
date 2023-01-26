@@ -8,7 +8,8 @@ Projeto da formação Java Web da Alura
 <p>Solidificar o conhecimento adquirido em curso na formação Java Web da Alura.</p>
 
 <h3>Estrutura</h3>
-<p>Em construção...</p>
+
+![structure](https://user-images.githubusercontent.com/106784981/214854625-f0356a52-b380-491c-9a4a-7d356d621f51.png)
             
 <h3>Tecnologias</h3>
 <ul>
