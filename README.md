@@ -1,4 +1,4 @@
-# JavaWeb
+# JavaEE
 Projeto da formação Java Web da Alura
 
 <h3>Sobre</h3>
